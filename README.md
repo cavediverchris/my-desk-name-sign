@@ -1,16 +1,18 @@
-# CNC Project Template
+# My Desk Name Sign
 
-I have made this repository to be a template that can be used to store CNC project file(s) so that they can be shared publically. Initially I thought to use Github because as a new CNC-er it would help to have revision control of my CNC project file. 
+I have access to a CNC machine at my men's shed. I am a member of the [Westhill Men's Shed](https://westhillmensshed.co.uk/) and I have started to try and learn how to use our Genmitsu 6050 XL CNC. I was able to start my very first CNC project on the 30th May 2025 which was a simple job of just engraving my name 'Chris'. The Shed had just bought a brand new computer for driving the CNC and we were using this to help test out getting the CNC and the computer set up. 
 
-I have access to a CNC machine at my men's shed. I am a member of the [Westhill Men's Shed](https://westhillmensshed.co.uk/) and I have started to try and learn how to use our Genmitsu 6050 XL CNC.
+![First Test Run](resources/just-name.jpg)
+
+After the most rudimentary start, we then quickly started working on a desk name sign by including my full name and job title
+
+![First Nameplate Sign](resources/name-with-title.jpg)
+
+Now I want to try and do a better job now that I'm starting to use the CNC machine. First of all I started pouring over Google Images for some inspiration ...
 
 In this section, I should elaborate and describe my project.
 
 The inspiration for this project was ... 
-
-![screenshot](resources/source-inspiration.png)
-
-
 
 And this is a preview of what my design looks like:
 
@@ -22,7 +24,7 @@ And this is a preview of what my design looks like:
 
 ## CNC Software
 
-This project file was built using Vectric VCarve Pro v12.011 (update this if necessary)
+This project file was built using Vectric VCarve Desktop Trial Edition v12.011.
 
 ## Endmills
 
